@@ -1,0 +1,24 @@
+/* Selection by Tag */
+body {
+    background-color: blue;
+    color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+nav {
+    background-color: black;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+/* Selection by Class */
+.nav{
+ background-color: white;
+ color: red;
+}
+
+/* Selection by Id*/
+#list{
+    background-color: red;
+    font-family: cursive;
+}
